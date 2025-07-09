@@ -8,3 +8,8 @@ flex-wrap: wrap;}
     height: 58px;
     border: 1px solid black;
 }
+.duck{
+    background-image: url('../styles/assts/duck.jpg');
+    background-size:contain ;
+    background-repeat:no-repeat ;
+}
